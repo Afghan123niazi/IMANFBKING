@@ -476,7 +476,7 @@ def action():
     p = ThreadPool(30)
     p.map(main, id)
     print 50 * '\x1b[1;91m-'
-    print 'RAYES_IMANProcess Has Been Completed\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92...100%'
+    print 'RAYES_IMAN_HACK Process Has Been Completed\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92...100%'
     print 'Total OK/CP : ' + str(len(oks)) + '/' + str(len(cpb))
     print 'RAYES_IMAN_HACK.TM Cloned Accounts Has Been Saved : save/cloned.txt'
     print ''
